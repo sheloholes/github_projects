@@ -1,0 +1,3 @@
+Name: Mayur Devidas Patil
+Skills:Python, Java, Shell, SQL, HTML, CSS, JS, Next.js , Node.js,AppScript, GCP, AWS, Azure. 
+Email: mayurdpatil25@gmail.com
